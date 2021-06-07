@@ -1,5 +1,5 @@
 # yandex_algorithm
-Yandex.Algorithm home works
+## Yandex.Algorithm home works
 
 Со 2 по 30 июня 2021 года прохожу Тренировки по алгоритмам от Яндекса.
 
