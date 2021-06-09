@@ -62,10 +62,7 @@ void	numbers_without_code(char *str)
 	y = 4;
 	if (strncmp(str, code, 4) != 0)
 	{
-		tmp[0] = '8';
-		tmp[1] = '4';
-		tmp[2] = '9';
-		tmp[3] = '5';
+		strcpy(tmp, code);
 		while (str[x])
 			tmp[y++] = str[x++];
 		tmp[y] = '\0';
